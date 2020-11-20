@@ -3,5 +3,6 @@ public class Hello {
         System.out.println("3th");
         System.out.println("我是上传的版本121221!");
         System.out.println("我是新push的版本!");
+        System.out.println("关心则乱!");
     }
 }
