@@ -1,9 +1,11 @@
 public class Hello {
     public static void main(String[] args) {
         System.out.println("3th");
-        System.out.println("我是上传的版本121221!");
-        System.out.println("我是新push的版本!");
-        System.out.println("关心则乱!");
 
+    }
+
+    public static String sayHello(String msg) {
+        System.out.println("使用jar包的方法输出:"+msg);
+        return "返回新的msg:︿(￣︶￣)︿"+msg;
     }
 }
