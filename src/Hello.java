@@ -8,5 +8,7 @@ public class Hello {
         System.out.println("使用jar包的方法输出:"+msg);
 		//test
         return "返回新的msg:︿(￣︶￣)︿"+msg;
+
+
     }
 }
